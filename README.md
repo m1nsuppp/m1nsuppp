@@ -1,7 +1,7 @@
 ```js
-let minsupLee = {
+const MINSUP_LEE = {
   whoAreU: () => {
-    console.log("Hi👋, I am Minsup Lee!");
-  }
+    console.log("What's up! I am Minsup Lee!");
+  },
 }
 ```
